@@ -93,6 +93,9 @@ html, body {
 	  text-align: center;
 	  font-family: arial;
 	  border: 1px solid #CCC;
+	  flex-basis: 300px;
+	  flex-grow: 0;
+	  flex-shrink: 0;
 }
 
 .card-two {
